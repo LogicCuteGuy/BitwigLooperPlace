@@ -1,0 +1,58 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.maven.metadata.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.icp
+*.ipr
+*.iwx
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# NetBeans
+nbproject/
+nb-configuration.xml
+
+# Gradle
+.gradle/
+build/
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Local environment
+.env
+.env.local
+
+# Bitwig extension builds
+*.bwextension
